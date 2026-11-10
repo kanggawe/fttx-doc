@@ -1,4 +1,4 @@
-# TFFX Documentation
+# FTTX Documentation
 
 <p align="center">
   <strong>FTTH Network Documentation & Technical Knowledge Base</strong>
